@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Unlocked Bible Notes Team Information Documentation
+Print on Demand Information Documentation
 ================================
 
 This site is the official documentation for Door43's Unlocked Bible Notes.  The content for the UBN is being created by Wycliffe Associates staff members.
